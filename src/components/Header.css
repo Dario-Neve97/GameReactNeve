@@ -1,0 +1,8 @@
+.hero {
+  height: 100vh;
+  background: 
+  linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1) 100%),
+  url('/src/assets/godofwar.jpg') center/cover no-repeat;
+  position: relative;
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+}

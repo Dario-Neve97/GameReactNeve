@@ -1,0 +1,28 @@
+.navbar{
+  position: fixed!important;
+  padding: 15px!important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;        
+  display: flex;
+  justify-content:center!important ;
+  padding: 1rem 2rem;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(10px);
+  transition: background 0.3s ease;
+}
+
+.nav-link {
+  border-radius: 18px;
+}
+.nav-link:hover{
+  border-radius: 12px;
+  background-color: rgba(240, 248, 255, 0.375);
+}
+.special-gothic-expanded-one-regular {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+

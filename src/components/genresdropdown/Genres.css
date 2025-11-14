@@ -1,0 +1,10 @@
+.background-personalized{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.5rem;
+  background-color: rgba(0, 0, 0, 0.718);
+  width: 100%;
+}
+.background-personalized:hover{
+  font-size: 1.5rem;
+  background-color: rgba(240, 248, 255, 0.211);
+}

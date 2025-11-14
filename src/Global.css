@@ -1,0 +1,38 @@
+body {
+    background-color: #272727;
+}
+.style-sidebar-filters{
+  background-color: rgba(240, 248, 255, 0.049);
+  padding: 20px;
+}
+.style-main-content{
+    background-color: rgba(240, 248, 255, 0.049);
+    padding: 10px;
+}
+.img-card{
+  padding: 10px;
+    height: 25vh;
+    margin: auto;
+}
+.span-heart{
+  position: absolute;
+  right: 1rem;
+}
+.star{
+  color: yellow;
+}
+.searchbar{
+  position: relative;
+  align-content: center;
+  height: 30vh;
+  border: #2A2E32 solid 5px;
+  border-radius: 16px;
+  background-color: rgba(25, 25, 25, 0.49);
+}
+.searchbar:hover{
+  background-color: rgba(240, 248, 255, 0.211);
+}
+
+.volume-footer{
+  height: 120px;
+}
